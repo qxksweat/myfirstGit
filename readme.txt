@@ -5,3 +5,5 @@ Git tracks changes of files.
 boss
 
 Greating a new branch is quick and simple.
+
+add merge test.
