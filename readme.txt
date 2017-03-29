@@ -7,3 +7,5 @@ boss
 Greating a new branch is quick and simple.
 
 add merge test.
+
+git is a free software.
