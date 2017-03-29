@@ -7,3 +7,5 @@ boss
 Greating a new branch is quick and simple.
 
 add merge test.
+
+bug test.
